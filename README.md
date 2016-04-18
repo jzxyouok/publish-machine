@@ -18,7 +18,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/inJS/publish-machine
+git clone https://github.com/inJs/publish-machine
 # Go into the repository
 cd publish-machine
 # Install dependencies and run the app
