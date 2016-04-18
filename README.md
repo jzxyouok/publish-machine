@@ -1,4 +1,4 @@
-# electron-quick-start
+# publish-machine
 
 **Clone and run for a quick way to see an Electron in action.**
 
@@ -18,9 +18,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/inJS/publish-machine
 # Go into the repository
-cd electron-quick-start
+cd publish-machine
 # Install dependencies and run the app
 npm install && npm start
 ```
