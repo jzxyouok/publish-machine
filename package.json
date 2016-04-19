@@ -11,10 +11,9 @@
     "url": "git+https://github.com/inJs/publish-machine.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "wechat",
+    "alipay",
+    "publist"
   ],
   "author": "GitHub",
   "bugs": {
